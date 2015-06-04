@@ -1,8 +1,8 @@
 package control;
 public class Potenciometro{
     //Atributos de Potenciometro
-    public float[] potencia;
-    public int aguja;
+    private float[] potencia;
+    private int aguja;
     //Constructores
     public Potenciometro(int pos){
         int x;
