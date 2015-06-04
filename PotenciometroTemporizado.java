@@ -1,7 +1,7 @@
 package control;
 public class PotenciometroTemporizado extends Potenciometro {
-    public long tiempo;
-    public long tiempoIni;
+    private long tiempo;
+    private long tiempoIni;
     
     public PotenciometroTemporizado(float[] valores, long latencia) {
         super(valores);
