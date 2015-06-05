@@ -69,9 +69,9 @@ public class Potenciometro{
             return false;
     }
     
-    public void mostrar(){
+   /* public void mostrar(){
     
-    }
+    }*/
     //Funciones de Modificaci�n
     public void subir(){
         //subir(1) -->Alternativa
